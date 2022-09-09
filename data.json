@@ -1,0 +1,19 @@
+{
+  "name": "Ryan Roy",
+  "roll": "Graphic Designer ✨",
+  "profilePic": "profile.jpg",
+  "links": [
+    {
+      "title": "Instagram ❤",
+      "link": "https://instagram.com/abhimehrr"
+    },
+    {
+      "title": "Facebook ✔",
+      "link": "https://facebook.com/abhimehrr"
+    },
+    {
+      "title": "Twitter ✨",
+      "link": "https://twitter.com/abhimehrr"
+    }
+  ]
+}
